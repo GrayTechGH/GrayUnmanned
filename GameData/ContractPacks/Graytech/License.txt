@@ -1,5 +1,5 @@
 Name: Graytech Unmanned and Grand Tours mission packs
-Author: Graytech (linuxgurugamer@gmail.com)
+Author: Graytech (filter.github.gy@gyardley.com)
 
 Based on the work of linuxgurugamer and tjsnh
 *************************
